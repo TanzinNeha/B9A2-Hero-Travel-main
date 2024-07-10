@@ -71,7 +71,7 @@ nav ul li a{
 
 /* Banner */
 .banner {
-  background-image: url('images/Group 13 (1) (1).png'); /* Change this to your image path */
+  background-image: url('/Images/Group\ 13\ \(1\)\ \(1\).png 13 (1) (1).png'); /* Change this to your image path */
   background-size: cover;
   background-position: center;
   height: 600px;
@@ -720,7 +720,6 @@ footer {
   }
 }
 .discount-section {
-  background-image: url('background-image.jpg');
   background-size: cover;
   background-position: center;
   color: #000000;
